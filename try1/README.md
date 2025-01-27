@@ -20,6 +20,9 @@ MainPrg    | net9.0          | 9.0.0                        | 9.0.0 Transitive
 
 Load the assemblies with the highest version of ALL of the dependencies.
 
+## .deps.json
+
+Loading all .deps.json files and merge them.
 
 ## Run 
 
